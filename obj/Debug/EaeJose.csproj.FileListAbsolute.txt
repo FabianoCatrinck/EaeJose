@@ -1,0 +1,6 @@
+C:\Estudo CSharp\EaeJose\EaeJose\bin\Debug\EaeJose.exe.config
+C:\Estudo CSharp\EaeJose\EaeJose\bin\Debug\EaeJose.exe
+C:\Estudo CSharp\EaeJose\EaeJose\bin\Debug\EaeJose.pdb
+C:\Estudo CSharp\EaeJose\EaeJose\obj\Debug\EaeJose.csprojResolveAssemblyReference.cache
+C:\Estudo CSharp\EaeJose\EaeJose\obj\Debug\EaeJose.exe
+C:\Estudo CSharp\EaeJose\EaeJose\obj\Debug\EaeJose.pdb
